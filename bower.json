@@ -1,6 +1,6 @@
 {
   "name": "webcom",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Webcom library",
   "homepage": "https://webcom.orange.com",
   "main": "webcom.js",

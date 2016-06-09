@@ -1,8 +1,8 @@
 {
   "name": "webcom",
-  "version": "0.2.3",
+  "version": "1.0.1",
   "description": "Webcom library",
-  "homepage": "https://webcom.orange.com",
+  "homepage": "https://datasync.orange.com",
   "main": "webcom.js",
   "moduleType": [
     "globals"

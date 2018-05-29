@@ -1,6 +1,6 @@
 {
   "name": "webcom",
-  "version": "1.3.2",
+  "version": "2.2.1",
   "description": "Webcom library",
   "homepage": "https://datasync.orange.com",
   "main": "webcom.js",
@@ -8,9 +8,17 @@
     "globals"
   ],
   "keywords": [
-    "realtime",
-    "websocket",
-    "backendless"
+    "flexible datasync",
+    "webcom",
+    "real-time",
+    "database",
+    "backend as a service",
+    "BaaS",
+    "serverless",
+    "message broker",
+    "javascript",
+    "nodejs",
+    "sdk"
   ],
   "authors": [
     "Webcom <webcom.ops@orange.com>"

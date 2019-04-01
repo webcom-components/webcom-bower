@@ -1,6 +1,6 @@
 {
   "name": "webcom",
-  "version": "2.6.1",
+  "version": "2.7.1",
   "description": "Webcom library",
   "homepage": "https://datasync.orange.com",
   "main": "webcom.js",
